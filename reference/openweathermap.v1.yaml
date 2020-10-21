@@ -236,6 +236,6 @@ components:
       name: appid
       type: apiKey
       in: query
-      description: '**Longitude**. *Example: 139*. Longitude coordinate of the location of your interest. Must use with `lat`.'
+      description: ''
 tags:
   - name: Weather endpoints
